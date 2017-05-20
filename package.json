@@ -1,0 +1,25 @@
+{
+  "name": "gt-suggest",
+  "version": "1.0.0",
+  "description": "Tag based suggestion with graph theory",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankemp/gt-suggest.git"
+  },
+  "keywords": [
+    "graph",
+    "theory",
+    "suggestions",
+    "prediction"
+  ],
+  "author": "Andrew Kemp",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ankemp/gt-suggest/issues"
+  },
+  "homepage": "https://github.com/ankemp/gt-suggest#readme"
+}
