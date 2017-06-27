@@ -1,4 +1,5 @@
 const Unit = require('./unit');
+const _ = require('lodash');
 
 class Node extends Unit {
 
@@ -20,3 +21,5 @@ class Node extends Unit {
     }
 
 }
+
+module.exports = Node;

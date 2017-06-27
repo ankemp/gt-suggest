@@ -100,3 +100,5 @@ class Edge extends Unit {
     }
 
 }
+
+module.exports = Edge;
