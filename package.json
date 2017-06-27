@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ankemp/gt-suggest/issues"
   },
-  "homepage": "https://github.com/ankemp/gt-suggest#readme"
+  "homepage": "https://github.com/ankemp/gt-suggest#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
